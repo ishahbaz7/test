@@ -5,6 +5,6 @@
     "shelfLife": "30 days from manufacturing when stored below 00 C",
     "nutations": "Nutritional Value (Per 100 gm provides approx.) :Energy357.8 kcal , Carbohydrate6.15 g, Fat (On D.B.)50.00 g, Protein20.12 g",
     "qty": "1 Kg Packet, 200 gm Packet, 500 gm Packet",
-    "imgSrc": ["/assets/images/products/paneer.png", "/assets/images/products/malai-paneer.png"]
+    "imgSrc": ["/assets/images/products/malai-paneer.png","/assets/images/products/paneer.png" ]
 
 }
